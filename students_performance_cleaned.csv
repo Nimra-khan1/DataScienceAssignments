@@ -1,0 +1,20 @@
+gender,parental level of education,math score,reading score,writing score
+female,some college,48.0,79,43
+male,bachelor's degree,4.0,90,83
+female,some college,40.0,63,71
+female,Unknown,97.0,27,100
+female,Unknown,44.0,66,23
+female,some college,40.0,97,57
+female,some college,10.0,100,24
+female,Unknown,62.0,55,81
+male,Unknown,7.0,69,87
+female,bachelor's degree,49.77777777777778,23,96
+female,bachelor's degree,49.0,21,71
+female,Unknown,3.0,25,49
+female,some college,0.0,73,94
+male,some college,79.0,23,89
+Unknown,bachelor's degree,42.0,73,91
+male,Unknown,100.0,82,62
+male,bachelor's degree,73.0,37,33
+male,bachelor's degree,81.0,100,35
+female,high school,100.0,63,98
